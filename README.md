@@ -83,3 +83,12 @@ A simple task management dashboard built with:
     │   └── main.jsx / main entry
     ├── index.css / tailwind.css
     └── vite.config.js
+
+
+**Backend env**
+PORT=8080
+MONGODB_URI='--'
+JWT_SECRET='--'
+
+**Frontend env**
+VITE_BACKEND_URL='http://localhost:8080'
